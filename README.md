@@ -9,4 +9,6 @@
 - clustered index의 query paln 분석 및 비교
 - inserting first, creatint index first 시간 비교
 
-
+## lab 2
+- btree index, hash index 비교 및 
+- PostgreSQL Geometric Operators 및 rtree
