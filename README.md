@@ -12,3 +12,8 @@
 ## lab 2
 - btree index, hash index 비교 및 
 - PostgreSQL Geometric Operators 및 rtree
+
+## lab 3
+- hash join, merge join 비교
+- hash join과 equi join 및 nested loop join과 메모리 버퍼 크기
+- merge join과 sorted 및 hybrid merge join과 unsorted
