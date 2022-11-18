@@ -20,4 +20,9 @@
 
 ## lab 4
 - query optimization
-- exceution plan 분석을 통해 특정 sql에서 RDBMS의 query optimization 비교
+- execution plan 분석을 통해 특정 sql에서 RDBMS의 query optimization 비교
+
+## lab 5
+- histogram, most common values, number of tuples 등 RDBMS 메타데이터를 이용한 query result 예축
+- clustering index에서 탐색 범위에 따른 execution plan 및 성능 비교
+- 여러 개의 table를 join 할 때 query optimization에 따른 join 방법과 순서 비교
