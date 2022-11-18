@@ -17,3 +17,7 @@
 - hash join, merge join 비교
 - hash join과 equi join 및 nested loop join과 메모리 버퍼 크기
 - merge join과 sorted 및 hybrid merge join과 unsorted
+
+## lab 4
+- query optimization
+- exceution plan 분석을 통해 특정 sql에서 RDBMS의 query optimization 비교
